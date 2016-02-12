@@ -9,17 +9,18 @@ INSTALLATION
 4. click properties and open the middle tab, then click "browse local files" this will open your tf2 folder
 5. click tf and then custom
 6. drop this in there
+7. 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Huds used
 
-Mangachu's edit of hudas iscariote                                        health and ammo and most of the hud
+Mangachu's edit of hudas iscariote              -                           health and ammo and most of the hud
 
-Rayshud by Raysfire                                                       buildings ans sapper part of the hud
+Rayshud by Raysfire                             -                          buildings ans sapper part of the hud
 
-7HUD by sevin                                                             menu override and class selection screen
+7HUD by sevin                                   -                          menu override and class selection screen
 
-OxideHUD by oxide                                                         see-through scoreboard
+OxideHUD by oxide                               -                         see-through scoreboard
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
