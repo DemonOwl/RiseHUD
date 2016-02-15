@@ -86,9 +86,9 @@
 		"label" "7"
 		"command" "engine Server2"
 	}
-	"7HUD"
+	"RiseHUD"
 	{
-		"label" "7HUD"
+		"label" "RiseHUD"
 		"command"		"engine toggleconsole;
 			play vo/toughbreak/plng_toughbreak_contractgiverare_beergarden.mp3
 			echo -------------------------------------------------------------------------------;
