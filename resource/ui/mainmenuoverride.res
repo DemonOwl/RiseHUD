@@ -159,10 +159,10 @@
 			"centerwrap"	"1"
 		}			
 	}	
-	"7HUD"
+	"RiseHUD"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"7HUD"
+		"fieldname"		"RiseHUD"
 		"xpos"			"53"
 		"ypos"			"65"
 		"zpos"			"11"
